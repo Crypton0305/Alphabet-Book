@@ -97,7 +97,7 @@ body {
   text-align: bottom;
   position: fixed;
   top:570px;
-  left:1300px;
+  right:10%;
   bottom:50px;
   z-index:10;
   justify-content: center; 
